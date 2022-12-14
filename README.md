@@ -3,7 +3,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 
-# Bitcoin-Price-Prediction
+# Backtracking Bitcoin Prices: A Deep Learning Approach with LSTM
 Using LSTM to backtrack Bitcoin price prediction.
 
 ## Steps Taken
