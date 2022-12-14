@@ -115,7 +115,8 @@ X_train, X_test, y_train, y_test = train_test_split(features, targets, random_st
 
 # %% Model development
 model = Sequential()
-model.add(LSTM(64, input_shape=X_train.shape[1:]))
+model.add(LSTM(64, input_shape=X_train.shape[1:], return_sequences=True))
+model.add(LSTM(64))
 model.add(Dense(y_test.shape[1]))
 
 # Model summary
