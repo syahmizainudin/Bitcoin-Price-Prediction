@@ -6,16 +6,6 @@
 # Backtracking Bitcoin Prices: A Deep Learning Approach with LSTM
 Using LSTM to backtrack Bitcoin price prediction.
 
-## Steps Taken
-### Step 1 - Data loading    
-### Step 2 - Data inspection    
-### Step 3 - Data cleaning    
-### Step 4 - Features selection   
-### Step 5 - Data pre-preprocessing    
-### Step 6 - Model development    
-### Step 7 - Model evaluation  
-### Step 8 - Model saving
-
 ## Visualization
 <p align="center">
   <img src="resources/bitcoin_open_prices.png" height=400/>
